@@ -1,0 +1,6 @@
+Flask==2.3.2
+Flask-Cors==3.0.10
+yfinance==0.2.40
+pandas==2.0.3
+numpy==1.25.2
+requests==2.31.0
